@@ -1,6 +1,6 @@
 ## Hello, there 🤓
 
-My name is Caio and I am a full-stack web developer from Mauá, São Paulo. Trying to be a full-stack developer.
+My name is Caio and I am a full-stack web developer from Mauá, São Paulo.
 
 
 
