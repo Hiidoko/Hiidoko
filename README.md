@@ -1,11 +1,5 @@
 <h2 align="left">Hi 👋! My name is Caio and I'm a developer , from São Paulo</h2>
 
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/H5POhvdgk9kcYyTToA/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
