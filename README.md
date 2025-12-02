@@ -1,11 +1,11 @@
-## Hi 👋!
+## Hi 👋
 
 My name is Caio and I’m a **full-stack web developer** from **São Paulo**.  
 I love creating applications that **solve real-world problems**, look great on every device, and make people’s lives easier
 
 I’m now **available for new freelance projects** and also open to **long-term positions** 🚀
 If you have an idea or need a developer for your team, let’s talk!  
-You can reach me through [WhatsApp](https://wa.me/5511992348346) or [email](mailto:caio.marques1809@gmail.com).
+You can reach me through [WhatsApp](https://wa.me/5511992348346), [email](mailto:caio.marques1809@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hiidoko/).
 
 ### 🧩 Skills
 
